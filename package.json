@@ -1,6 +1,6 @@
 {
   "name": "@amirafa/xevent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "DOM-native event extensions",
   "main": "dist/index.cjs",
   "module": "dist/index.js",
