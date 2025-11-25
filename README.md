@@ -39,6 +39,21 @@ npm install @amirafa/xevent
 
 # 🧠 Usage Example
 
+## 📦 Option 0 — CDN (Browser Global Script)
+
+Include the CDN script in your HTML:
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/@amirafa/xevent/dist/umd.global.js"></script>
+<script>
+  // Option A — enable ALL events
+  XEvent.setupAllEvents();
+
+  // Option B — enable a single event
+  // XEvent.setupExternalLinkEvent();
+</script>
+```
+
 ## Option 1 — **Manual Initialization (Tree-shaking Friendly)**
 
 ```ts
