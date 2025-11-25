@@ -5,6 +5,6 @@ import { setupAllEvents } from "./setupAllEvents";
 setupAllEvents();
 
 export const xevent = {
-  version: "1.0.1",
+  version: "1.0.2",
   setupAllEvents,
 };
