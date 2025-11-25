@@ -1,0 +1,39 @@
+{
+  "name": "@amirafa/xevent",
+  "version": "1.0.6",
+  "description": "DOM-native event extensions",
+  "main": "dist/index.cjs",
+  "module": "dist/index.js",
+  "browser": "dist/umd.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": "./dist/index.js",
+    "./auto": "./dist/auto.js"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "license": "MIT",
+  "author": "Amirafa <amir.h.rafati@gmail.com>",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "events",
+    "dom-events",
+    "custom-events",
+    "event-listener",
+    "dom-utils",
+    "typescript",
+    "xevent"
+  ],
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "devDependencies": {
+    "tsup": "^8.5.1",
+    "typescript": "^5.9.3"
+  }
+}
