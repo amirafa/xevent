@@ -248,3 +248,6 @@ Event detail:
 # 📜 License
 
 MIT
+
+---
+![GitHub Stars](https://img.shields.io/github/stars/amirafa/xevent?style=social)
