@@ -2,6 +2,24 @@
   "name": "@amirafa/xevent",
   "version": "1.0.2",
   "description": "DOM-native event extensions",
+  "license": "MIT",
+  "author": "Amirafa <amir.h.rafati@gmail.com>",
+  "keywords": [
+    "events",
+    "dom-events",
+    "custom-events",
+    "event-listener",
+    "dom-utils",
+    "typescript",
+    "xevent"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirafa/idleRequester.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "dist/index.cjs",
   "module": "dist/index.js",
   "browser": "dist/umd.js",
@@ -13,20 +31,6 @@
   "scripts": {
     "build": "tsup"
   },
-  "license": "MIT",
-  "author": "Amirafa <amir.h.rafati@gmail.com>",
-  "publishConfig": {
-    "access": "public"
-  },
-  "keywords": [
-    "events",
-    "dom-events",
-    "custom-events",
-    "event-listener",
-    "dom-utils",
-    "typescript",
-    "xevent"
-  ],
   "files": [
     "dist",
     "README.md",
