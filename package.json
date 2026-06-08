@@ -1,6 +1,6 @@
 {
   "name": "@amirafa/xevent",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "DOM-native event extensions",
   "license": "MIT",
   "author": "Amirafa <amir.h.rafati@gmail.com>",
