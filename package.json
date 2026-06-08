@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amirafa/idleRequester.git"
+    "url": "git+https://github.com/amirafa/xevent.git"
   },
   "publishConfig": {
     "access": "public"
